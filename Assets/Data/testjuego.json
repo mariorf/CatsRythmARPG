@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "character1Sprite": "char1_idle.png",
+      "character2Sprite": "char2_happy.png",
+      "speaker": "Character1",
+      "dialogue": "Hello there! How are you? Hello there! How are you? Hello there! How are you? Hello there! How are you? Hello there! How are you? Hello there! How are you?"
+    },
+    {
+      "id": 2,
+      "character1Sprite": "char1_idle.png",
+      "character2Sprite": "char2_happy.png",
+      "speaker": "",
+      "dialogue": "I'm doing well, thanks! What about you? Hello there! How are you? Hello there! How are you?"
+    },
+    {
+      "id": 3,
+      "character1Sprite": "char1_happy.png",
+      "character2Sprite": "char2_neutral.png",
+      "speaker": "Character1",
+      "dialogue": "I'm great, just working on my new project. Hello there! How are you?"
+    }
+  ]
+}
