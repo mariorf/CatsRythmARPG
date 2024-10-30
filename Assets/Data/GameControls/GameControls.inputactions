@@ -49,24 +49,6 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
-                },
-                {
-                    "name": "SkipDialogue",
-                    "type": "Button",
-                    "id": "63404bb4-040e-4ccc-a9a5-85943ad3193a",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                },
-                {
-                    "name": "ToggleInventory",
-                    "type": "Button",
-                    "id": "03ac221c-3dad-4574-bdbe-da6ad3143d2b",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -199,17 +181,6 @@
                     "processors": "",
                     "groups": "Gamepad",
                     "action": "Pause",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "0d2297d4-20eb-4499-af8b-4a0c42ab81db",
-                    "path": "<Keyboard>/#(F)",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "SkipDialogue",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -399,17 +370,6 @@
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
-                },
-                {
-                    "name": "",
-                    "id": "f9a31d34-65b0-4504-b331-6d44a0a84c6e",
-                    "path": "<Keyboard>/i",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "Keyboard",
-                    "action": "ToggleInventory",
-                    "isComposite": false,
-                    "isPartOfComposite": false
                 }
             ]
         },
